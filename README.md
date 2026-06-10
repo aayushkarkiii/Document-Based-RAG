@@ -23,7 +23,7 @@ FastAPI (Uvicorn)
 
 | Layer | Technology |
 |---|---|
-| API | Python 3.12, FastAPI, Uvicorn |
+| API | Python 3.11+, FastAPI, Uvicorn |
 | Database | PostgreSQL, SQLAlchemy (async), asyncpg |
 | Vector Store | Qdrant |
 | Session Memory | Redis |
